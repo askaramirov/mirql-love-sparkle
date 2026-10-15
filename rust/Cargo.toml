@@ -1,0 +1,11 @@
+[package]
+name = "mirql-love-sparkle"
+version = "0.1.0"
+edition = "2021"
+description = "A tiny sparkle of love: the Rust port of @mirql/love-sparkle"
+license = "MIT"
+repository = "https://github.com/askaramirov/mirql-love-sparkle"
+readme = "README.md"
+include = ["src/**/*", "Cargo.toml", "README.md", "LICENSE"]
+
+[dependencies]
